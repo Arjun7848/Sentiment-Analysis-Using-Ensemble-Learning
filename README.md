@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis Using Ensemble Learning
 
 ## Project Overview
@@ -69,3 +70,7 @@ Arjun
 
 ## Project Title
 Sentiment Analysis Using Ensemble Learning
+=======
+# Sentiment-Analysis-Using-Ensemble-Learning
+A machine learning-based sentiment analysis system using Ensemble Learning with Random Forest, Word TF-IDF, and Character TF-IDF to classify text into Positive, Negative, and Neutral sentiments.
+>>>>>>> 52b5c8eb33ecbf921737313ea99a8dfc97d0c0ad
